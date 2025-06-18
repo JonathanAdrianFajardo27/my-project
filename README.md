@@ -1,1 +1,2 @@
 # my-project
+Download the 'my-project' folder from Google Drive using the provided link https://drive.google.com/drive/folders/1qAa5oIivROdT37amhOSIFx4AqpAz0wXO?usp=sharing. Open Visual Studio Code, launch a new terminal, and open the 'my-project' folder. Finally, run npm run dev in the terminal to start the local server.
